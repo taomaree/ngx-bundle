@@ -16,3 +16,4 @@ https://github.com/taomaree/ngx_friendly  patch
 
 #https://github.com/vozlt/nginx-module-stream-sts
 
+https://github.com/eustas/ngx_brotli
